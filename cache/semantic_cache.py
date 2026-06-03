@@ -6,6 +6,7 @@ from pathlib import Path
 
 from core.logger import get_logger
 
+# //this is comment
 
 log = get_logger("semantic_cache")
 

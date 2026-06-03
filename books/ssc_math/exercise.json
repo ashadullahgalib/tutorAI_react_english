@@ -1,0 +1,308 @@
+[
+    {
+        "page": 26,
+        "chapter": "Chapter 1. Real Numbers",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. Product of three consequtive numbers will always be divisible by which of the following numbers? (a) 5 (b) 6 (c) 7",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 26,
+        "chapter": "2.",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 5.Let n = 2m - 1, where m E N a) Add: 0.7+ 0.15 b) Show that n2 - 1 is always divisible by 8 c) when m = 3, prove that /n is an irrational number. Short-Answer Questions: 6. a) If a = 0.2 and b = 0.3, show that (a + b) is a rational number b) Without finding the square root, show that, 10 lies between 3 and 4. c) Express the recurring decimals 1.2574 and 0.3612 as similar",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 49,
+        "chapter": "2026",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: If A = {2, 3, 4} and B = {1, 2}, how many elements are in the set (A B)? (b) 8 (c) 6 (d) 5 If A U B = {a, b, c} then- (i) A={a,b}, B={a,b,c} (ii) Number of elements in P(A U B) is 8.. (iii) A is a finite set Which of the following is correct?. (a) i and ii (b) i and iii (c) ii and iii (d) i, ii and iii If A = {6, 7, 8, 9, 10, 11, 12, 13}, then answer the Questions no. 3 & 4: Which one is the correct expression for the set A?. (a){x E N: 6 < x < 13} (b){x E N: 6 x < 13} (c){x E N: 6 x 13} (d){x E N: 6 < x 13 Which one is the set of primes in A?. (c){7,11, 13} (d){9,12}",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 49,
+        "chapter": "2026",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question:. 2x-4 a) Determine the value of f (- : f(x)-1 c) Prove that f(y) = x. Short-Answer Questions: 6. a) If A and B are subsets of universal set U, use a Venn diagram to represent (A U B)'. b) If the sets of prime factors of 10 and 21 are A and B respectively,. show that (A n B) is a null set c) If f(x) = x3 3x2 + 3x -1 and f(a) = 0, find the value of a d) Determine all subsets of the set A={a,b,c} and then find the",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 84,
+        "chapter": "Chapter 3. Algebraic Expressions.",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1.Which one of the following is the value of {(a + b)2 (a - b)?}? (a) 2(a2 + b2) (b) a2 + b2 (c) 2ab (d) 4ab 2. If (3a5 - 6a4 + 3a + 14) is an algebraic expression- (i) variable of the expression is a. (ii) degree of the expression is 5. (iii) co-efficient of a4 is 6 Which of the following is correct?. (a) i and ii (b) i and iii (c) ii and iii (d) i, ii and iii If x4 - x2 + 1 = 0, then answer to the questions no. 3 & 4. 3.What is the value of (x2 +) ? (a) 4 (b) 2 (c) 1 (d) 0 4. What is the value of (x3 + ) ? (a) 3 (b) 2 (c) 1 (d) 0",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 84,
+        "chapter": "Chapter 3. Algebraic Expressions.",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: x a) Factorize: a4 -- 7a2 - 18. b) Find the value of (x3 - ); when x > 1. Short-Answer Questions: 6. a) If a2 + b2 = 25 and ab = 12, find the value of (a2 - b2) b) If x3 - y3 = 208 and x - y = 4, find the value of xy. c) How much money will become Tk. 1280 as profit principal in 12 years at the rate of profit 5% yearly?.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 102,
+        "chapter": "Chapter 4. Exponents and Logarithms",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1.If logx4 = 2, then what is the value of x? (a) 2 (b) 2 (c) 4 If a = log23, b = log25 then- (i) =log53 (ii) a+b=log28 (iii) a2 + b2 = 8 Which of the following is correct?. (a) i and ii (b) i and iii. (c) ii and iii (d) i, ii and iii Based on the number 0.0225, answer to the Questions no. 3 & 4. Which one of the following is the scientific form of the number? (a) 2.25 10-4 (b) 22.5 10-3 (c) 2.25 10-2 (d) .225 10-1 What is the characteristic of the common log of the number? (a) 2 (b) 1 (c) 0 (d) 2",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 103,
+        "chapter": "Chapter 4. Exponents and Logarithms",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 7 log()+5 log ()-13log () _32x+3_9.32x-1 log 3+3 log 5 3x+2 :3 a) Find log of 9 on the basis of 3. b) Show that A = 1 c) If B = 72, find the value of x. Short-Answer Questions: b) If (Va)*-2 =1, find the value of x. c) If log,27 = 6, find the value of y. d) Find the characteristic of the common logarithm of the number 1234567 (without using a calculator). Forma-13, Mathematics, Class 9-10 \n[MATH]\naetr . Exonutsad Logarihums 97 11. H $\\mathrm{`} \\operatorname{l o g} 2=0 . 3 0 1 0 3 , \\, \\, \\operatorname{l o g} 3=0 . 4 7 7 1 2$ and $\\operatorname{l o g} \\! 7=0 . 8 5 4 1 0$ , find the value of the following expressions :\n1) log9 2） log28 3）log42\nSample Questions\nMultiple Choice Questions:\n1. If $l o g_{x} 4=2$ , then what is the value of $x$ ?\n(a) 2 (b) $\\pm2$ (c) 4 (d)10\n2. If $a=\\operatorname{l o g}_{2} 3 , \\; b=\\operatorname{l o g}_{2} 5$ then-\n $\\frac{a} {b}=\\operatorname{l o g}_{5} 3 \\, \\, \\, \\, \\, \\, \\, \\, ( i i ) \\, a+b=\\operatorname{l o g}_{2} 8$ ii) $a^{2}+b^{2}=8$ \n(i）\nWhich of the following is correct?\n(a) $i$ and $i i$ （b) $i$ and $i i i$ (c) $i i$ and $i i i$ (d) $i , \\, i i$ and $i i i$ \nBased on the number 0.0225, answer to the Questions no. $3 \\ \\& \\ 4$ .\n3. Which one of the following is the scientific form of the number?\n(a) $2 . 2 5 \\times1 0^{-4}$ (b) $2 2 . 5 \\times1 0^{-3}$ \n(c) $2 . 2 5 \\times1 0^{-2}$ (d) $2 2 5 \\times1 0^{-1}$ \nWhat is the characteristic of the common log of the number?\n(a) $\\bar{2}$ (b) $\\bar{1}$ ()0 (d) 2\nGreative Question:\n5. $\\mathrm{A}=\\frac{7 \\operatorname{l o g} {( \\frac{1 6} {1 5} )}+5 \\operatorname{l o g} {( \\frac{2 5} {2 4} )}-1 3 \\operatorname{l o g} {( \\frac{2} {3} )}} {\\operatorname{l o g} {3}+3 \\operatorname{l o g} {5}} , \\, \\mathrm{B}=\\frac{3^{2 x+3}-9 \\cdot3^{2 x-1}} {3^{x+2} \\ \\div3}$ \na)Find log of $9$ on the basis of $\\sqrt{3}$ .\nb) Show that $\\mathrm{A}=1$ .\nc) If $B=7 2$ , find the value of $x$ .\nShort-Answer Questions:\n6. a) Show that., $\\frac{2 5^{n}-4} {5^{n}+2}+2=5^{n}$ .\nb）If ${( \\root3 \\of{a} )}^{x-2}=1$ , find the value of $x$ .\nc）If $\\operatorname{l o g}_{y} 2 7=6$ , find the value of $y$ .\nd) Find the characteristic of the common logarithm of the number\n1234567 (without using a calculator).\nForma-13, Mathematics, Class 9-10\n[/MATH]",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 122,
+        "chapter": "Chapter 5. Equations in One Variable",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. How many roots are there in the equation (x - 4)2 = 0? (a) 1 (b) 2 (c) 3 (d) 4 If the product of two algebraic expressions x and y, xy = 0 then- (i) x =0or y=0 (ii) x=0,or y# 0 (iii) y = 0, when x = 0. Which of the following is correct? (a) i and ii (b) i and iii (c) ii and iii (d) i, ii and iii A two-digit number has a tens digit that is twice the units digit. Let the units digit be x. Based on this information, answer questions 3 and 4: What is the number? (a) 2x (b) 3x (c) 12x (d) 21x If the places of the digits are interchanged, what will be the number? (a) 3x (b) 4x (c) 12x (d) 21x",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 122,
+        "chapter": "Chapter 5. Equations in One Variable",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: The area of a land is 192 square metre. If the length of the land is decreased by 4 metre and the breadth is increased by 4 metre, then the area remains unchanged. Again, a circle of 20 diametre was drawn in the center of the land. A line drawn from the center of the circle perpendicular to one of the chords is 2 cm less than the length of that chord.",
+        "exercise_type": "unknown"
+    },
+    {
+        "page": 149,
+        "chapter": "2026",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: If one side of a equilateral triangle is produced to both, sides then what is. difference between the generated exterior angles?. (a) 0 In the adjacent figure-- B",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 151,
+        "chapter": "Chapter 6. Lines, Angles and Triangles",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 5. In triangle ABC. angle A = 1 right angle. Mid-point of BC is D. a) If DEF and ZPEF are adjacent and complementary angles, draw. the figure and label the angles. b)Show that, AB + AC > 2AD c) Prove that, AD = BC. In AABc, D and E are the mid points of AB and AC respectively and. bisectors of B and C intersect at the point O a) In an equilateral triangle PQR, if side QR is extended to point S,. determine the measure of the interior adjacent angle at point R.. b) Prove that, DE || BC and DE =BC. c) Prove that, BOC = 90 + =ZA Short-Answer Questions: 7. a) In AABC, if AB = AC and ZBAC = 80, and side BC is extended to point D, find ACD. b) In APQR, if PQ = PR and D, E, F are the midpoints of QR, PR and PQ respectively, show that DE = DF. c) If C and D are supplementary and C - D = 60, find the value of C. d) If D is any point on side BC of triangle AABC, prove that AB + BC + AC > 2AD Forma-19, Mathematics, Class 9-10 \n[MATH]\naer 6.Lines Ange an Tiangles 145 Creative Question:\n5. In triangle $A B C$ , angle $A=1$ right angle. Mid-point of $B C$ is $D$ .\na) If $\\angle D E F$ and $\\angle P E F$ are adjacent and complementary angles, draw\nthe figure and label the angles.\nb) Show that, $A B \\, \\,+\\, \\, A C \\, \\, > \\, \\, 2 A D$ \nc) Prove that, $A D ~=~ \\frac{1} {2} B C$ \n6. In AABC, $\\mathit{D}$ and $E$ are the mid points of $A B$ and $A C$ respectively and\nbisectors of $\\angle B$ and $\\angle C$ intersect at the point $o$ \na) In an equilateral triangle $\\Delta P Q R$ , f side $Q R$ is extended to point $S$ ,\ndetermine the measure of the interior adjacent angle at point $R$ .\nb) Prove that. $D E \\parallel B C$ and $D E {}=\\frac{1} {2} B C$ .\nc) Prove that, $\\angle\\mathrm{B O C}=9 0^{\\circ}+\\frac{1} {2} \\angle A$ \nShort-Answer Questions:\n7. a) In $\\Delta A B C$ , if $A B ~=~ A C$ and $\\angle B A C ~=~ 8 0^{\\circ}$ , and side $B C$ is extended\nto point $D$ ,find $\\angle A C D$ .\nb) In $\\Delta P Q R$ , if $P Q ~=~ P R$ and $D$ , $E$ ， $F$ are the midpoints of $Q R$ , $P R$ ,\nand $P Q$ respectively, show that $D E ~=~ D F$ .\nc) If $\\angle C$ and $\\angle D$ are supplementary and $\\angle C ~-~ \\angle D ~=~ 6 0^{\\circ}$ , find the\nvalue of $\\angle C$ .\nd) If $\\mathit{D}$ is any point on side $B C$ of triangle $\\Delta A B C$ , prove that\n $A B ~+~ B C ~+~ A C ~ > ~ 2 A D$ .\nForma-19, Mathematics, Class 9-10\n[/MATH]",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 168,
+        "chapter": "Chapter 7. Practical Geometry.",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions:. 1. If the lengths of two equal sides of an isosceles right-angled triangle are 18 cm, then what is the measurement of the triangle? In a rhombus- (i) four sides are mutually equal (ii) opposite angles are equal. (iii) two diagonals bisect each other in right angle Which one of the following is correct?. (a) i, ii (b) i, iii (c) ii, iii (d) i, ii and ii Based on the figure, answer questions 3 and 4:. A In the figure, ABCDis a rectangle, and the diagonals intersect at point E. BF= 2 cm and EF= 3 cm. F B What is the length of diagonal BD? (a) 1 (b) 5 (c) 2/13 (d) 5 What is the area of the rectangle? (a) 8V5 (c) 125 (d) 325",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 168,
+        "chapter": "Chapter 7. Practical Geometry.",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: The length of two parallel sides of a trapezium are 4 cm and 6cm and two angles adjacent greater side are x = 60 and y = 50. a) Construct an equilateral triangle with 5 cm sides. b) Construct the trapezium. (Construction and description of construction are must). c) Supposing two sides of the stem as two diagonals of a parallelogram and Zy as included angle, construct the parallelogram. (Construction and description of construction are must).. Short-Answer Questions: 6. a) ConstructADEF where DE = DF = 4 cmand EDF = 50 b) ConstructAPQR where PQ = PR = 5 cm and QR = 6 cm c) Using ruler and compass, draw the bisector PQ of a 7 cm line",
+        "exercise_type": "unknown"
+    },
+    {
+        "page": 191,
+        "chapter": "Chapter 8. Circle",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: A 1. What is the value of the angle x in the circle with centre O? (a) 126 (b) 108 .08 (c) 72 (d) 54 C Two circles intersect each other externally. If one of their diametes is 8 cm and the radius of the another is 4 cm, what is the distance between their two centres?",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 192,
+        "chapter": "Chapter 8. Circle",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: C 5. In the figure, AB and AC are two equal chords of. the circle ABC with center O. a) If PQR of the cyclic quadrilateral PQRS is 110, then find PSR B D b) Prove that D is the midpoint of chord AB. c) Prove that the chords mentioned are equidistant from the center.. Short-Answer Questions: 6. a) In circle BcD with center O, if chord BC =8 cm and a 1 OP is drawn from the center to BC such that OP = 3 cm, find the length of OP b) In circle ABcD with center O, if side AB is extended to point D.. show that DBC = ADC. c) Using a pencil compass, construct an arc PQR with a radius of 3 cm. and find its center. d) In circle ABcD with center O, if ZACB and ADB are inscribed angles standing on arc AB, show that ACB = ADB.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 217,
+        "chapter": "2026",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: For 0 0 90, what is the maximum value of sin0 ? (c) (b) 0 (d) 1 ABC is a right-angled triangle whose hypotenuse AC = 2,AB = 1 such that- (i) ZACB = 30 (ii) tan A = 3 (iii) sin(A + C) = 0 Which one of the following is correct?. (a) i, ii (b) i, iii (c) ii, iii (d) i, ii and ii. In the adjacent diagram, ABC is a right-angled triangle with hypotenuse AC = 2 units and AB = 1 unit. A Use this information to answer questions 3 & 4: What is the value of tan C? (a) 2 (b) 3 (c) 1 B",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 217,
+        "chapter": "4.",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: sin 0 = p, cos 0 = q, tan 0 = r, where 0 is an acute angle. a) If r = /(3)-1, find the value of . b) If p + q = 2 prove that thet 0 = 45 c) If 7p2 + 3q2 = 4 show that, tan0 = Short-Answer Questions:. a) Show that tan?A - sin?A = tan?A - sin?A b) In triangle AABC, if B = 90o,BC = 6 cm and AB = 8 cm, then find the value of sinA. c) If sin?A = 1 + cos?A, find the value of the angle A (assuming A is an acute angle).",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 225,
+        "chapter": "2026",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. What is the other name is of geoline? (a) perpendicular line (b) Lying line (c) Parallel line (d) Vertical line In the adjacent figure- D (i) DAC is an angle of depression (ii) ZACB is an angle of elevation (iii) ZDAC = ZACB Which one of the following is correct? (a) i, ii (b) i, ii (c) ii, iii (d) i, ii and iii",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 226,
+        "chapter": "4.",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: Scenario 1: A 16-meter-long ladder is leaning against a wall. It is placed not at the top but somewhat below the top of the 15-meter-high wall, making a 60 angle with the ground. Scenario 2: A tree was broken by a storm such that the broken part leans against the standing part, forming a 60 angle with the ground, and touches the ground 7 metres away from the base of the tree. a) Draw the horizontal and vertical lines to represent the vertical plane b) How many meters below the top of the wall was the ladder placed? c) Determine the total height of the tree Short-Answer Questions: 6. a) Draw and label the angle of elevation from point P on the ground to point O above the ground. of elevation of the sun. c) A 3-meter ladder touches the top of a wall forming a 60 angle with the ground. Find the height of the wall.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 246,
+        "chapter": "Chapter 11. Algebraic Ratio and Proportion",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: If the sides of a square double, how much will the area of a square be increased? (a) 2 times (b) 3 times (c) 4 times (d) 6 times If b, a, c are continued proportional, then- (i) a? = bc (ii) = a+b _ c+a (iii) a-a a-b Which one of the following is correct? (a) i & ii (b) i & iii (c) ii & iii (d) i, ii & iii If the sides of a triangle are in the ratio 3 : 4 : 5 and the perimeter is 36 cm, then",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 246,
+        "chapter": "Chapter 11. Algebraic Ratio and Proportion",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question:",
+        "exercise_type": "unknown"
+    },
+    {
+        "page": 274,
+        "chapter": "Chapter 12. Simple Simultaneous Equations in Two Variables",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: If x + y = 6 and 2x = 4, what is the value of y? (a) 2 (b) 4 (c) 6 (d) 8 (i) are mutually dependent. (ii) are mutually consistent. (iii) do not have any solution. Which one of the following is correct? (a) i & ii (b) i & iii (c) ii & iii (d) i, ii & iii.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 274,
+        "chapter": "Chapter 12. Simple Simultaneous Equations in Two Variables",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 0 = Az - x'at = A + x :a! aaannenbn aenen do mnaaa y a) Check whether the system is consistent b) Solve the system using the cross-multiplication method. c) Solve the system graphically. Short-Answer Questions:. 6. a) A boat, rowing in favour of current, goes 15 km per hour and rowing against the current goes 5 km per hour. Find the speed of the boat and current. b) If the total number of sides of two polygons is 17 and total number of. diagonals of those polygons is 53, then what is the number of sides of each polygon? -x+2y=1) c) Determine whether the system is consistent. 2x+y=4 J d) If the sum and difference of two numbers are 31 and 13 respectively, find.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 292,
+        "chapter": "Chapter 13. Finite Series",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. What is the general term of the sequence: 5, 8, 11, . . 99 ? 2.3+8+13+ ... +73 -The series is- (i) A finite series (ii) An arithmetic series (iii) Its 11th term is 53 Which one of the following is correct?. (a) i & ii (b) i & iii (c) ii & iii (d) i, ii & iii On the basis of the following series, answer questions 3 & 4. log2 + log4 + log8 +",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 293,
+        "chapter": "2026",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 5. A student saves Tk. 10 in the first week and increases the savings by Tk. 5. more than the previous week every week a) Find the sum of the first 20 natural numbers. b) Represent the savings as a series up to n terms and calculate total. savings after 21 weeks. c) Consider the first week's saving as the first term and common difference 10; create a new series and find the sum of the first 8 terms using formula Short-Answer Questions: 6. a) Find the general term of the sequence formed by the series:. 3+7+11+15+. b) Find which term of the series 256 + 128 + 64 + . c) Use the formula to calculate the sum of the series:. 82 + 92 + 102 +.. ..+ 152 d) If the 17th term of an arithmetic series is 43, find the sum of the first 33 terms.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 313,
+        "chapter": "2026",
+        "topic": "Regular pentagon",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions:. If triangles ABC and PQR have proportional areas and heights, and the height of ABC is a units, what is the height of PQR? (a) a (b) 2a (c) 3a (d) 4a In plane geometry:. (i) The triangle is a polygon made up of the least number of line segments.. (ii) A rhombus is the regular polygon of four sides (iii) Sides of a regular polygon are equal, but angles are not Which of the following is true?. (a) i (b) i and ii (c) i and iii (d) i, ii and iii",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 314,
+        "chapter": "Chapter 14. Ratio, Similarity and Symmetry",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: The angle bisector of A in triangle ABC, namely AD, intersects BC at point D. A line segment CE, parallel to DA, intersects the extended side BA at point E. a) In triangles PQR and LMN, the bases are QR and MN respectively and QR = MN. Show that the ratio of their areas equals the ratio of their heights. b) Prove that BD : DC = BA : AC . c) If a line parallel to BC intersects AB and AC at P and Q respectively prove that BD : DC = BP : CQ . Short-Answer Questions: 6. a) In triangle ABC, E is drawn parallel to BC and intersects AB and AC at D and E respectively and if AB : AD = 2:1 show that, DE : BC = 1:2 b) If PQR and LMN have equal heights, show that the ratio of their areas equals the ratio of their bases. In trapezium ABCD where AB || DC and diagonals AC and BD intersect at O, show that triangles OAB and OCD are similar. d) If triangles ABC and DEF are similar and a pair of corresponding sides AB and DE are in the ratio 3:4, find the ratio of the areas ABC : DEF.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 322,
+        "chapter": "Chapter 15. Area Related Theorems and Constructions",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. Two sides of a right triangle measure 12 cm and 13 cm. What must be the length of the third side for the triangle to be constructible?.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 323,
+        "chapter": "2026",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question:. 5. QD is a median of the PQR a) In an equilateral triangle ABC, if AD 1 BC then, find the ratio AABD : AACD b) Prove that, PQ2+QR2 =2(PD2+QD2) c) If PQ = QR = PR,then prove that, 4QD2 =3PQ2 Short-Answer Questions:. 6. a) If the area of a parallelogram and a triangle located between a pair of parallel lines are equal, find the ratio of the base lengths of the parallelogram and triangle.. b) Find the ratio between the area of a square and the area of another. square constructed on its diagonal. c) In triangle ABC,AB = AC and AD 1 BC. Find the ratio ABD : AACD. d) A right-angled triangle has hypotenuse 10 cm and base 8 cm. Find the area of the triangle.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 356,
+        "chapter": "Chapter 16. Mensuration",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions: 1. The length of the side of an equilateral triangle is 6 cm. What is its area (c.m?)? (a) 3/3 (b) 4/3 (c) 63 (d) 9V3 2. If the length of each side of a square is a and diagonal is d, then: (i) Its area is a? square units (ii) Perimeter is 2ad units (iii) d=2a Which of the following is true?",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 357,
+        "chapter": "3.",
+        "topic": "What is the length of the diagonal of",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: Scenario 1: The area of a rectangle is 1200 square meters. If the length is reduced by 10 cm, it becomes a square. Scenario 2: A square inscribed in a circle has side length 40 cm. a) A rectangular solid has length = 5 cm, width = 4 cm, and diagoml = 5/2 cm. Find its height. b) Find the perimeter of the rectangle. c) In Scenario 2, find the length of the arc intercepted by the side of the square on the circle. Short-Answer Questions: 6. a) If the distance from the center to any vertex of a regular quadrilateral is 4 cm, find its area.. b) A parallelogram has a diagonal of 6 cm and area of 18 square cm. Find the perpendicular from the opposite vertex to the diagonal. c) The area of the surface of a cube is 2400 square cm. Determine the diagonal of the cube. d) The area of the curved surface of a right circular cylinder is 4400 square cm.",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 378,
+        "chapter": "Chapter 17. Statistics.",
+        "topic": "Sample Questions",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Multiple Choice Questions:. 1. If the disorganised data of statistics are arranged according to the value, the data cluster round near any central value. This tendency of data is called-- (a) Mode (b) Central tendency (c) Mean (d) Median 2. To draw histograms we need- (i)",
+        "exercise_type": "mcq"
+    },
+    {
+        "page": 379,
+        "chapter": "2026",
+        "topic": "General",
+        "subtopic": "General",
+        "type": "exercise",
+        "content": "Creative Question: 5. The frequency distribution table of weights (in kg) of 60 students of a class are:",
+        "exercise_type": "unknown"
+    }
+]

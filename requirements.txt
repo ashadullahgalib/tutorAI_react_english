@@ -1,0 +1,29 @@
+# Local LLM
+google-generativeai>=0.3.2
+
+# Semantic search
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0
+numpy>=1.26.4
+
+# API
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.1
+slowapi>=0.1.9
+python-multipart>=0.0.9
+
+# Frontend
+streamlit>=1.35.0
+requests>=2.32.3
+
+# Config / utils
+pyyaml>=6.0.1
+python-dotenv>=1.0.1
+
+# Optional: Redis session store (uncomment if using Redis)
+# redis>=5.0.4
+# hiredis>=2.3.2
+
+# Testing
+pytest>=8.2.2

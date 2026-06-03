@@ -1,0 +1,14 @@
+paths:
+  books_dir: "${COACHING_DATA_DIR}/books"
+  logs_dir: "logs"
+
+models:
+  embedding: "all-MiniLM-L6-v2"
+  llm: "gemini-2.5-flash"
+  vision: "gemini-2.5-flash"
+
+retrieval:
+  top_k: 8           # content questions — increased from 6
+  top_k_exercise: 12 # exercise/MCQ questions — more context needed
+  chat_history_limit: 20
+  chat_history_send_limit: 8

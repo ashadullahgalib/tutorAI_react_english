@@ -34,25 +34,14 @@ def resolve_query(query: str, state: SessionState) -> str:
     return query
 
 
-def search(
-    query: str,
-    chapter: str | None = None,
-    mode: str = "content",
-    subject: str | None = None,
-    k: int | None = None,
+def _search_index(
+    query_emb: np.ndarray,
+    index,
+    meta: list[dict],
+    chapter: str | None,
+    top_k: int,
 ) -> list[dict]:
-    if not subject:
-        raise ValueError("subject is required for retrieval")
-
-    bundle = get_subject_bundle(subject)
-    model = get_embedding_model()
-    query_emb = np.array(model.encode([query]), dtype="float32")
-    faiss.normalize_L2(query_emb)
-
-    index = bundle["exercise_index"] if mode == "exercise" else bundle["content_index"]
-    meta = bundle["exercise_meta"] if mode == "exercise" else bundle["content_meta"]
-
-    top_k = k or CONFIG["retrieval"]["top_k"]
+    """Search a single FAISS index, optionally filtering by chapter."""
     if not meta:
         return []
 
@@ -74,3 +63,37 @@ def search(
     actual_k = min(top_k, len(meta))
     _, indices = index.search(query_emb, actual_k)
     return [meta[i] for i in indices[0] if i >= 0]
+
+
+def search(
+    query: str,
+    chapter: str | None = None,
+    mode: str = "content",
+    subject: str | None = None,
+    k: int | None = None,
+) -> list[dict]:
+    if not subject:
+        raise ValueError("subject is required for retrieval")
+
+    bundle = get_subject_bundle(subject)
+    model = get_embedding_model()
+    query_emb = np.array(model.encode([query]), dtype="float32")
+    faiss.normalize_L2(query_emb)
+
+    top_k = k or CONFIG["retrieval"]["top_k"]
+
+    if mode == "exercise":
+        # exercise.json only has questions, not answers or theory.
+        # We must also pull from content.json so Gemini has the concepts,
+        # formulas, and definitions needed to actually solve the exercises.
+        exercise_results = _search_index(
+            query_emb, bundle["exercise_index"], bundle["exercise_meta"], chapter, top_k
+        )
+        content_results = _search_index(
+            query_emb, bundle["content_index"], bundle["content_meta"], chapter, top_k #// 2
+        )
+        return exercise_results + content_results
+
+    return _search_index(
+        query_emb, bundle["content_index"], bundle["content_meta"], chapter, top_k
+    )
